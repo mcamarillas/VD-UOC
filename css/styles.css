@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    color: #3d85c6;
+    color: #a43dc6;
     margin-top: 50px;
     font-size: 32px;
 }
@@ -55,7 +55,7 @@ h2 {
 /* Title of the graph */
 .graph-card .title {
     padding: 15px;
-    background-color: #3498db;
+    background-color: #a43dc6;
     color: white;
     font-size: 20px;
     text-transform: uppercase;
@@ -64,7 +64,7 @@ h2 {
 
 /* Footer */
 footer {
-    position: fixed;
+    margin-top: 40px;
     bottom: 10px;
     width: 100%;
     text-align: center;
